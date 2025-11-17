@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  /* background-color: #e2edff; */
+}
+
+.jumbotron img {
+  width: 148.5px;
+  height: 161.85px;
+}
+
+.active {
+  display: inline-block;
+  max-width: 500px;
+}
+
+body {
+  background-color: #e2edff;
+}

@@ -1,0 +1,19 @@
+.renja {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+.loader {
+  background-color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 99;
+  display: none;
+}
+
+.spinner-border {
+  margin-top: 100px;
+}

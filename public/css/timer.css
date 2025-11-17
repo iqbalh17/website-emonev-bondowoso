@@ -1,0 +1,36 @@
+.timer {
+  background-color: #0d6efd;
+  position: absolute;
+  top: 12%;
+  width: 250px;
+  height: 80px;
+  left: 40%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  color: white;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.timer div span {
+  display: block;
+  text-align: center;
+}
+
+.timer div span:nth-child(2) {
+  font-size: 35px;
+}
+
+.timer div {
+  display: inline-block;
+}
+
+.timer div:nth-child(2) {
+  margin-top: 20px;
+}
+
+.timer div:nth-child(4) {
+  margin-top: 20px;
+}

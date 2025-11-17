@@ -1,0 +1,37 @@
+/* .jumbotron {
+    padding-top: 2rem;
+    background-color: #e2edff;
+} */
+
+/* #projects {
+    background-color: #e2edff;
+} */
+
+/* .jumbotron img {
+    width: 197px;
+    height: 223.7px;
+} */
+
+.renja {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+.btn-warning {
+  /* box-shadow: 0 1px; */
+}
+
+.loader {
+  background-color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 99;
+  display: none;
+}
+
+.spinner-border {
+  margin-top: 100px;
+}

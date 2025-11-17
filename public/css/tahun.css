@@ -1,0 +1,23 @@
+.tahun {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  /* background-color: #e2edff; */
+}
+
+.jumbotron img {
+  width: 197px;
+  height: 223.7px;
+}
+
+.fa-calendar-alt {
+  width: 60px;
+  height: 60px;
+}
+
+.active {
+  display: inline-block;
+  max-width: 500px;
+}

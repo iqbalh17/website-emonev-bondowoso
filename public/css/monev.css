@@ -1,0 +1,50 @@
+/* .jumbotron {
+    padding-top: 2rem;
+    background-color: #e2edff;
+} */
+
+/* #projects {
+    background-color: #e2edff;
+} */
+
+/* .jumbotron img {
+    width: 197px;
+    height: 223.7px;
+} */
+
+.renja {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+.table input {
+  border: none;
+}
+
+#editModal img {
+  width: 120px;
+}
+
+.img-div {
+  height: 100px;
+}
+
+.loader {
+  background-color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 99;
+  display: none;
+}
+
+.spinner-border {
+  margin-top: 100px;
+}
+
+.reset-btn {
+  background-color: rgba(192, 188, 188, 0.959);
+  color: rgb(92, 89, 89);
+}
